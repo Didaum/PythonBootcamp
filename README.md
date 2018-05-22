@@ -1,6 +1,7 @@
 # Python Bootcamp: Go from zero to Hero
 
 Contém os projetos solicitados no curso.  
+Ainda estou em andamento com o curso
 
 1º - Jogo da Velha
 
